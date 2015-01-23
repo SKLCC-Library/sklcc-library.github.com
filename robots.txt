@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://SKLCC.github.io/sitemap.xml 
